@@ -302,12 +302,6 @@ z-index: 4;
 .footer__column{ 
   width: 150px; 
 } 
-.footer_columns_info{ 
-  width:50%;   
-  position: relative; 
-  display: flex; 
-  justify-content: space-between; 
-} 
 .link:hover{
   color: #61BBFF;
   text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
