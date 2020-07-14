@@ -235,8 +235,6 @@
     background-color:#1f1f1f; 
     position: relative; 
     min-height: 350px; 
-    padding-top: 60px;
-    padding-bottom: 40px;
   } 
   .footer__author{ 
     color: white; 
@@ -252,6 +250,8 @@
   margin-right: auto; 
   margin-left: auto; 
   justify-content: space-between;
+  padding-top: 60px;
+  padding-bottom: 40px;
 } 
 .footer__column_content_copyright{ 
   flex-basis: 711px; 
