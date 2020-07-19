@@ -242,7 +242,7 @@
     font-size: 18px; 
     font-weight: normal; 
     margin-top: 18px; 
-    margin-bottom: 18px; 
+    margin-bottom: 18px;
   } 
   .footer__columns{ 
   width: 90%;
@@ -257,7 +257,7 @@
   flex-basis: 711px; 
   display: flex;
   flex-direction: column;
-  justify-content: space-between; 
+  justify-content: space-between; /* Высота будет 250px, min-height: 250 для footer__column не нужен. */
 } 
 .footer__column-heading{ 
   color: white; 
