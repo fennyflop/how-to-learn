@@ -1,0 +1,10 @@
+/* и элемента с модификатором вида ключ-значение */ 
+.header__title{ 
+    font-size: 102px; 
+    font-weight: bold; 
+    line-height: 96px; 
+    width: 730px; 
+    align-self: center; 
+    left: 64px; 
+    position: relative; 
+  } 
