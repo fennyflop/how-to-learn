@@ -1,5 +1,7 @@
 .video__iframes{
+    display: flex;
+    position: absolute;
     margin-top: 50px;
-    margin-right: auto;
-    margin-left: auto;
+    left: 50%;
+    transform: translate(-50%);
 }
