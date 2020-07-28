@@ -8,6 +8,6 @@
     /* выше для экранов больше 1600px отцентрировали весь контент */ 
     font-family: 'Helvetica Neue', Arial, sans-serif; 
   } 
-*{
- outline: 1px solid tomato;
-}
+  *{
+    outline: 1px solid tomato;
+  }
